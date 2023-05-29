@@ -47,4 +47,4 @@
   - [Streaming Indexer: Spot](querying/streaming-indexer-spot.md)
 - [Transactions](transactions/README.md)
   - [Transactions: Cosmos](transactions/transactions-cosmos.md)
-  - [Transactions: Test](transactions/transactions-test.md)
+  - [Transactions: Test](transactions/Transactions-test.md)
